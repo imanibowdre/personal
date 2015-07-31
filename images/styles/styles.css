@@ -1,0 +1,50 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+    
+   
+     body {
+            -webkit-text-stroke: 2px purple;
+            background-image: url(http://subtlepatterns.com/patterns/symphony.png);
+            text-align:center;}
+            
+     img src="images/imani.jpg"
+            
+     a:link {
+         color:green;
+         }
+     
+     a:visited {
+         color:pink;
+     }
+     
+     a:hover {
+         color:red;
+     }
+     
+     a:active {
+          color:purple ;     
+     }
+         img { width:300px; }
+         
+     h4: {
+         font-size: 250%;
+     }
+     
+     h1: {
+         font-size:400%;
+     }
+     
+     p {
+         font-size:35px;
+     }
+     
+     .nav li{
+         display:inline-block;
+         margin:5px;
+     }
+     
+     .nav a:hover {
+         background-color:gray;
+     }
+    
+    
